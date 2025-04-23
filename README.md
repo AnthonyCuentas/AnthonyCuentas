@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**AnthonyCuentas/AnthonyCuentas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Ingeniero de Sistemas, Java - JavaScript - SQL - HTML,CSS,Js**
 
-Here are some ideas to get you started:
+:pencil: **Autodidacta - Platzi, Udemy, Cibertec**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:eyeglassses: **Trainer empedernido**
+
+:videogames: **Fan de los juegos de PC**
+
+:family: **Tarde en familia/ con la novia**
+
+### Vias de Contacto
+
+![Website](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2F-anthony-cuentas_turpo_197b28184%2F
+)
