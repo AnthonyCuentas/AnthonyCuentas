@@ -4,9 +4,9 @@
 
 :pencil: **Autodidacta - Platzi, Udemy, Cibertec**
 
-:eyeglassses: **Trainer empedernido**
+:eyeglasses: **Trainer empedernido**
 
-:videogames: **Fan de los juegos de PC**
+:video games: **Fan de los juegos de PC**
 
 :family: **Tarde en familia/ con la novia**
 
