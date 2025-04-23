@@ -8,7 +8,7 @@
 
 :video games: **Fan de los juegos de PC**
 
-:family: **Tarde en familia/ con la novia**
+:family: **Tarde en familia/ con la pareja**
 
 ### Vias de Contacto
 
