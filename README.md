@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:computer: **Ingeniero de Sistemas, Java - JavaScript - SQL - HTML,CSS,Js**
+:computer: **Ingeniero de Sistemas, Java - JavaScript - SQL - HTML,CSS,Bootstrap**
 
 :pencil: **Autodidacta - Platzi, Udemy, Cibertec**
 
