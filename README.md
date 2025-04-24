@@ -10,6 +10,8 @@
 
 :family: **Tarde en familia/ con la pareja**
 
+Actualizado desde VSC-developer01
+
 ### Vias de Contacto
 
 ![Website](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2F-anthony-cuentas_turpo_197b28184%2F
