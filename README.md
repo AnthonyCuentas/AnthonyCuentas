@@ -6,7 +6,7 @@
 
 :eyeglasses: **Trainer empedernido**
 
-:video games: **Fan de los juegos de PC**
+:happy: **Fan de los juegos de PC**
 
 :family: **Tarde en familia/ con la pareja**
 
